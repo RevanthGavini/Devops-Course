@@ -1,1 +1,3 @@
 Hi I am ttrying to write the file into another folder.
+Some how [pushed the file to git but I am not able to see the file in GIT.
+Need to see whats happeining
